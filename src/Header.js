@@ -58,7 +58,8 @@ export default Header
 
 const Container = styled.div`
     height: 60px;
-    background-color: #0F1111;
+    background-color #20bf55;
+    background-image linear-gradient(315deg, #20bf55 0%, #01baef 74%);
     display: flex;
     align-items: center;
     color: white;
